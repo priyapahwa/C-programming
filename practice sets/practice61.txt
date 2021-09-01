@@ -1,0 +1,2 @@
+Employee , 3300 
+Mazdoor , 7700 
